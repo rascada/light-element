@@ -4,7 +4,7 @@ const css = require('./helper').css;
 
 module.exports = class {
   constructor(elem$) {
-    helper.css(elem$.style);
+    css(elem$.style);
     elem$.addEventListener('click', this.handleClick.bind(this, elem$));
   }
 
