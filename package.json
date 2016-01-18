@@ -1,0 +1,14 @@
+{
+  "name": "light-element",
+  "version": "0.1.0",
+  "description": "lightbox for html elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Martyniak",
+  "license": "ISC",
+  "dependencies": {
+    "dynamics.js": "0.0.9"
+  }
+}
