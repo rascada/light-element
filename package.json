@@ -1,6 +1,6 @@
 {
   "name": "light-element",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lightbox for html elements",
   "main": "index.js",
   "scripts": {
