@@ -1,7 +1,6 @@
 const animate = require('./animate');
 const dimension = require('./dimension');
-const helper = require('./helper');
-const px = helper.px;
+const css = require('./helper').css;
 
 module.exports = class {
   constructor(elem$) {

@@ -1,5 +1,6 @@
 const Dynamic = require('dynamics.js');
 const animate = Dynamic.animate;
+const px = require('./helper').px;
 
 module.exports = function(elem$, from, to) {
   Object.assign(elem$.style, {
